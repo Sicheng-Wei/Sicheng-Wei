@@ -1,1 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sicheng-Wei)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sicheng-Wei&show_icons=true&theme=dark" width="500" height="300"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sicheng-Wei&layout=compact" width="500" height="300" alt="图片描述文字"/>
